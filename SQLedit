@@ -1,0 +1,9 @@
+insert into CONTACTS values (1, 'Coreen', 'Robinett', '9 Oxford Hill', 'Miami', 'FL', '33164', '786-266-3882', 'crobinett0@skyrock.com'),
+(2, 'Carmelina', 'Lensch', '51908 Reinke Pass', 'Scottsdale', 'AZ', '85255', '480-483-2691', 'clensch1@istockphoto.com'),
+(3, 'Pippy', 'Malloch', '6476 Eagle Crest Crossing', 'Trenton', 'NJ', '08695', '609-853-1563', 'pmalloch2@oakley.com'),
+(4, 'Jasmine', 'Latchmore', '3 Havey Park', 'Athens', 'GA', '30610', '706-262-9227', 'jlatchmore3@nationalgeographic.com'), (5, 'Laural', 'Aucourte', '704 Old Gate Road', 'Palmdale', 'CA', '93591', '661-180-4978', 'laucourte4@yahoo.co.jp'),
+(6, 'Kakalina', 'Bryns', '3950 Melody Junction', 'El Paso', 'TX', '88563', '915-570-7810', 'kbryns5@wikimedia.org'),
+(7, 'Shannah', 'Galey', '3003 Union Plaza', 'Fresno', 'CA', '93704', '209-830-6937', 'sgaley6@redcross.org'),
+(8, 'Corina', 'Shillom', '26115 Dwight Court', 'Schenectady', 'NY', '12305', '518-235-8588', 'cshillom7@csmonitor.com'),
+(9, 'Nester', 'Beaumont', '65 Butterfield Drive', 'El Paso', 'TX', '88574', '915-959-7656', 'nbeaumont8@wufoo.com'),
+(10, 'Alphonso', 'McRorie', '68 Boyd Junction', 'Des Moines', 'IA', '50335', '515-156-2312', 'amcrorie9@freewebs.com');
